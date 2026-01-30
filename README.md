@@ -493,41 +493,6 @@ x-user-role: admin
 ```
 
 ---
-
-## 📸 Screenshots
-
-### Server Startup
-```
-[Screenshot placeholder: Server console output showing successful startup]
-```
-
-### Postman - Get All Books
-```
-[Screenshot placeholder: Postman GET /api/books request and response]
-```
-
-### Postman - Create Book (Admin)
-```
-[Screenshot placeholder: Postman POST /api/books with headers and body]
-```
-
-### Postman - Borrow Book (User)
-```
-[Screenshot placeholder: Postman POST /api/borrow with headers and body]
-```
-
-### Postman - Access Denied Error
-```
-[Screenshot placeholder: Postman showing 403 error when user tries admin endpoint]
-```
-
-### Database Tables
-```
-[Screenshot placeholder: MySQL showing books and borrow_logs tables]
-```
-
----
-
 ## 📝 Notes for Grading
 
 1. **No Authentication Library Used**: Role simulation is done via HTTP headers as required
