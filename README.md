@@ -491,25 +491,5 @@ x-user-role: admin
   "message": "Title is required and cannot be empty"
 }
 ```
-
----
-## 📝 Notes for Grading
-
-1. **No Authentication Library Used**: Role simulation is done via HTTP headers as required
-2. **Transaction Safety**: Book borrowing uses Sequelize transactions to ensure data integrity
-3. **Validation**: All inputs are validated with clear error messages
-4. **Clean Code**: Follows Express.js best practices with modular structure
-5. **Error Handling**: Centralized error handling with proper HTTP status codes
-6. **Geolocation**: Latitude and longitude are validated and stored for each borrow
-
----
-
-## 👨‍💻 Author
-
-Student - Web Application Development Course
-
----
-
-## 📄 License
-
-ISC License
+**MOHON MAAF SEBELUMNYA....**
+SAYA SEDANG MENGIKUTI RELAWAN KELUAR PULAU. SAYA MENGERJAKAN REMEDIAL INI DARI JARAK JAUH MENGGUNAKAN LAPTOP TEMAN DENGAN JARINGAN YANG LAMBAT DAN KETERBATASAN SOFTWARE YANG DIPERLUKAN SEPERTI POSTMAN UNTUK API ENDPOT\OIN, JADI SAYA TIDAK BISA SCREENSHOT UNTUK POSTMAN
